@@ -6,22 +6,22 @@
 
 Bem-vindo ao repositório de projetos do **Flask**! Este repositório apresenta uma coleção de projetos criados com Flask, um microframework poderoso e leve para Python. Aqui você encontrará exemplos que demonstram como desenvolver e estruturar aplicações web de maneira prática e eficiente.
 
-## 🛠️ Instalação
+### 🛠️ Instalação
 
 Para começar a utilizar os projetos deste repositório, é necessário ter o Python 3.x instalado. Siga os passos abaixo para configurar o ambiente:
 
-## 1. Clone o Repositório:
+### 1. Clone o Repositório:
    ```bash
    git clone https://github.com/seuusuario/seu-repositorio.git
    cd seu-repositorio
 ```
 
-## 2.Crie um Ambiente Virtual:
+### 2.Crie um Ambiente Virtual:
 ```
 python3 -m venv venv
 source venv/bin/activate  # ou "venv\Scripts\activate" no Windows
 ```
-## 2.Instale as Dependências:
+## 3.Instale as Dependências:
 ```
 pip install -r requirements.txt
 ```
