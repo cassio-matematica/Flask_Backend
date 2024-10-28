@@ -21,7 +21,7 @@ Para começar a utilizar os projetos deste repositório, é necessário ter o Py
 python3 -m venv venv
 source venv/bin/activate  # ou "venv\Scripts\activate" no Windows
 ```
-## 3.Instale as Dependências:
+### 3.Instale as Dependências:
 ```
 pip install -r requirements.txt
 ```
@@ -69,6 +69,7 @@ if __name__ == "__main__":
 🔗 Links Úteis
 
 Documentação do Flask: https://flask.palletsprojects.com/
+
 Tutorial Flask Mega-Tutorial: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 🤝 Contribuições
